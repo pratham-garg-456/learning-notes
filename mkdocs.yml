@@ -104,6 +104,60 @@ nav:
           - HTTPS Redirect Middleware: coding/backend/https-redirect-middleware.md
           - Beanie: coding/backend/beanie.md
           - Supabase: coding/backend/supabase.md
+      - IT Fundamentals:
+          - coding/it/index.md
+          - Computer Architecture Overview: coding/it/computer-architecture-overview.md
+          - Programs, the CPU, and the Memory: coding/it/programs-cpu-and-memory.md
+          - CPU: coding/it/cpu.md
+          - RAM: coding/it/ram.md
+          - Motherboards: coding/it/motherboards.md
+          - Power Supplies: coding/it/power-supplies.md
+          - Storage: coding/it/storage.md
+          - Drivers and BIOS: coding/it/bios-and-drivers.md
+          - Peripherals and Ports: coding/it/peripherals-and-ports.md
+          - Files and File Systems: coding/it/files-and-file-systems.md
+          - Character Encoding: coding/it/character-encoding.md
+      - Agile and Scrum:
+          - coding/agile/index.md
+          - Agile Methodology: coding/agile/agile-methodology.md
+          - Introduction to Agile: coding/agile/introduction-to-agile.md
+          - History and Founding of Agile: coding/agile/history-of-agile.md
+          - The 4 Core Values: coding/agile/core-values.md
+          - The 12 Principles: coding/agile/twelve-principles.md
+          - Other Agile Methodologies: coding/agile/other-agile-methodologies.md
+          - Intro to Scrum: coding/agile/intro-to-scrum.md
+          - The 3 Pillars of Scrum: coding/agile/three-pillars-of-scrum.md
+          - The 5 Values of Scrum: coding/agile/five-values-of-scrum.md
+          - Daily Scrum and Sprint Review: coding/agile/daily-scrum-and-sprint-review.md
+          - Sprint Retrospective: coding/agile/sprint-retrospective.md
+          - Refine the Product Backlog: coding/agile/refine-product-backlog.md
+          - Velocity and Burndown Charts: coding/agile/velocity-and-burndown-charts.md
+      - Cloud (Azure):
+          - coding/cloud/index.md
+          - Cloud Computing: coding/cloud/cloud-computing.md
+          - Benefits of Cloud Services: coding/cloud/cloud-benefits.md
+          - Cloud Service Types: coding/cloud/cloud-service-types.md
+          - Core Architectural Components: coding/cloud/azure-core-architecture.md
+          - Compute and Networking: coding/cloud/azure-compute-and-networking.md
+          - Storage Services: coding/cloud/azure-storage.md
+          - Identity, Access, and Security: coding/cloud/azure-identity-access-security.md
+          - Cost Management: coding/cloud/azure-cost-management.md
+      - AI:
+          - coding/ai/index.md
+          - Generative AI: coding/ai/generative-ai.md
+          - AI Models and Training: coding/ai/ai-models-and-training.md
+          - AI Development Techniques: coding/ai/ai-development-techniques.md
+          - Generative AI Tools: coding/ai/generative-ai-tools.md
+          - Data Bias and AI Harms: coding/ai/data-bias-and-ai-harms.md
+          - Prompt Engineering: coding/ai/prompt-engineering.md
+          - Foundational LLMs: coding/ai/foundational-llms.md
+      - Security:
+          - coding/security/index.md
+          - OAuth: coding/security/oauth.md
+      - Microsoft 365:
+          - coding/microsoft-365/index.md
+          - Home Ribbon: coding/microsoft-365/home-ribbon.md
+          - Functions and Formulas: coding/microsoft-365/functions-and-formulas.md
       - System Design:
           - system-design/index.md
           - Getting Started:
@@ -170,6 +224,7 @@ nav:
               - Uber: chapter-5/uber.md
   - Languages:
       - languages/index.md
+      - IELTS: languages/ielts.md
   - Money:
       - money/index.md
   - People Skills:

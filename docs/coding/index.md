@@ -13,6 +13,12 @@ Notes on writing software: the languages and tools I use, core computer science 
 - **[JavaScript](javascript.md)**: scope, closures, async, `this`, array methods, and TypeScript basics.
 - **[Web Development](web/index.md)**: React, JSX, Next.js, JSON, APIs, and design (color, typography, UI, UX).
 - **[Backend](backend/index.md)**: FastAPI, Beanie, and Supabase.
+- **[IT Fundamentals](it/index.md)**: hardware, BIOS, storage, file systems, and character encoding.
+- **[Agile and Scrum](agile/index.md)**: values, principles, Scrum events, and backlog refinement.
+- **[Cloud (Azure)](cloud/index.md)**: cloud concepts, Azure architecture, compute, storage, identity, and cost.
+- **[AI](ai/index.md)**: generative AI, prompt engineering, and how large language models work.
+- **[Security](security/index.md)**: OAuth.
+- **[Microsoft 365](microsoft-365/index.md)**: Excel basics.
 
 _More to add. Ideas to start with: Big-O notation, arrays vs linked lists, hash maps, git workflows, testing, code review._
 
