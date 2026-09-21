@@ -10,6 +10,9 @@ Next.js is a React framework that gives you building blocks to create web applic
 
 By framework, we mean Next.js handles the tooling and configuration needed for React, and provides additional structure, features, and optimizations for your application.
 
+![nextjs](../../assets/notion/nextjs/image-51.png)
+
+
 ## Setting up the development environment
 
 - Download the latest Node.js.
@@ -18,6 +21,9 @@ By framework, we mean Next.js handles the tooling and configuration needed for R
 ## SSR vs CSR
 
 Reference: [How does SSR (Server-Side Rendering) differ from CSR (Client-Side Rendering)? (GeeksforGeeks)](https://www.geeksforgeeks.org/how-does-ssrserver-side-rendering-differ-from-csrclient-side-rendering/)
+
+![nextjs](../../assets/notion/nextjs/image-42.png)
+
 
 Put `'use client'` at the top of a file to make the component client-side rendered (CSR).
 

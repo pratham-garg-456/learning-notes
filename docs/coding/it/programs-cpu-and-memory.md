@@ -11,6 +11,9 @@ title: Programs, the CPU, and the Memory
 - The **memory controller chip (MCC)** bridges the CPU and RAM, fetching specific instructions as requested.
 - The **address bus** connects the CPU with the MCC and sends the address of the data. The MCC then looks up that address in RAM.
 
+![programs cpu and memory](../../assets/notion/programs-cpu-and-memory/image.png)
+
+
 ## Cache
 
 Cache is a smaller, faster memory than RAM that stores frequently used data to speed up processing.

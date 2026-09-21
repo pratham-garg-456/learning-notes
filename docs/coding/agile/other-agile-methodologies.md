@@ -18,15 +18,26 @@ Kanban boards or charts display the progress of a project as:
 
 The Kanban method ensures that the project team only accepts a sustainable amount of "In Progress" work.
 
+![other agile methodologies](../../assets/notion/other-agile-methodologies/image-38.png)
+
+
 ### Flow
 
 Once a task has started, it becomes a priority for the whole team to get it to "done". By focusing on less work, the work gets done faster. This goal of maximizing efficiency is called **flow**, and it is a core principle of Kanban.
 
 ## XP (Extreme Programming)
 
+![other agile methodologies](../../assets/notion/other-agile-methodologies/image-39.png)
+
+![other agile methodologies](../../assets/notion/other-agile-methodologies/image-40.png)
+
+
 Prioritizes technical excellence with practices like test-driven development (TDD), pair programming, and frequent releases.
 
 ## Lean
+
+![other agile methodologies](../../assets/notion/other-agile-methodologies/image-41.png)
+
 
 Inspired by lean manufacturing, it emphasizes eliminating waste, optimizing efficiency, and delivering value quickly.
 

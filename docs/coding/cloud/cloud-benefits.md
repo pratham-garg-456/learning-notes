@@ -12,6 +12,9 @@ The availability of applications, services, and any IT resources or infrastructu
 
 **SLAs (Service Level Agreements)** guarantee that Azure is available for a specific service, with a percentage of uptime.
 
+![cloud benefits](../../assets/notion/cloud-benefits/image-86.png)
+
+
 ### Scalability
 
 The ability of a system to handle growth of users or work (traffic).

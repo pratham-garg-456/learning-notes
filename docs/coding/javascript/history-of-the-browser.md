@@ -4,6 +4,9 @@ title: History of Browsing
 
 # History of Browsing
 
+![history of the browser](../../assets/notion/history-of-the-browser/image-16.png)
+
+
 Resource: [Difference Between Compiler and Interpreter](https://www.youtube.com/watch?v=_C5AHaS1mOA)
 
 - Netscape lost the browser war to Microsoft Internet Explorer.

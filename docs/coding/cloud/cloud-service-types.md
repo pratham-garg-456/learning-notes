@@ -8,6 +8,9 @@ title: Cloud Service Types
 
 With IaaS you are essentially renting the hardware in a cloud datacenter, but what you do with that hardware is up to you.
 
+![cloud service types](../../assets/notion/cloud-service-types/image-87.png)
+
+
 ### Use cases
 
 - **Testing and development:** teams can easily deploy and then delete VMs when they no longer need them.

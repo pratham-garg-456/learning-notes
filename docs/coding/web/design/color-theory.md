@@ -4,6 +4,9 @@ title: Color Theory
 
 # Color Theory
 
+![color theory](../../../assets/notion/color-theory/image-63.png)
+
+
 Resources: [Color Hunt](https://colorhunt.co/) and [Adobe Color wheel](https://color.adobe.com/create/color-wheel).
 
 When picking colors, we have to be aware of the mood of our color palette.
@@ -14,12 +17,18 @@ When picking colors, we have to be aware of the mood of our color palette.
 
 Pairing colors that are close to each other.
 
+![color theory](../../../assets/notion/color-theory/image-64.png)
+
+
 ### Complementary colors
 
 Used to make something pop out.
 
 !!! tip
     Don't use complementary colors for text. Use them for logos, icons, or things you really want to stand out.
+
+    ![color theory](../../../assets/notion/color-theory/image-65.png)
+
 
 ## Practice Questions
 

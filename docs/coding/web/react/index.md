@@ -10,6 +10,9 @@ title: React
 - It is not a framework, although it is sometimes referred to as a frontend JavaScript framework. It was created by Facebook.
 - It focuses on the UI: it is a tool for building interactive UI components.
 
+![index](../../../assets/notion/index/image-49.png)
+
+
 ### React is declarative
 
 Tell React what you want, and React builds the actual UI.
@@ -34,6 +37,9 @@ You can use DOM methods and JavaScript to listen to user events and [manipulate 
 React is used to build single-page applications. Single page means the website stays on the same page and only the components change as needed. We don't need to reload the page: we just render the component we need and the rest stays the same.
 
 **Component:** a small, reusable piece of code that represents a piece of user interface, for example a navigation bar or a footer.
+
+![index](../../../assets/notion/index/image-50.png)
+
 
 ## Prerequisite: Emmet in VS Code
 

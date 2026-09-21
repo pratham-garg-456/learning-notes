@@ -9,6 +9,9 @@ Terms like AI tools and AI models can be confusing because they sound similar bu
 - An **AI tool** is AI-powered software that can automate or assist users with a variety of tasks.
 - An **AI model** is a computer program trained on sets of data to recognize patterns and perform specific tasks.
 
+![ai models and training](../../assets/notion/ai-models-and-training/image-123.png)
+
+
 !!! tip
     Some AI tools leverage multiple AI models.
 

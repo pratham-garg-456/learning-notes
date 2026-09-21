@@ -4,6 +4,11 @@ title: Components
 
 # Components
 
+![components](../../../assets/notion/components/image-47.png)
+
+![components](../../../assets/notion/components/image-48.png)
+
+
 - Components describe a part of the user interface.
 - They are reusable and can be nested inside other components.
 

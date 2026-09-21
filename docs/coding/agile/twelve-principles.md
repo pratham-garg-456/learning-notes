@@ -8,6 +8,8 @@ The principles are grouped into themes. The notes keep the examples for four of 
 
 ## Theme: focus on what matters
 
+![twelve principles](../../assets/notion/twelve-principles/image-19.png)
+
 Examples:
 
 - Ensuring the team only works on approved features and doesn't spend time on unnecessary ones.
@@ -15,6 +17,8 @@ Examples:
 - Reserving 10% of the team's time to work on bug fixing or polishing a process, which should help you go faster in future iterations.
 
 ## Theme: business and developers work together
+
+![twelve principles](../../assets/notion/twelve-principles/image-20.png)
 
 The goal is to enable easy access between business people and developers.
 
@@ -24,6 +28,8 @@ Examples:
 - If that's not possible, maybe co-locating a day a week, encouraging instant messaging, or blocking off time on team calendars each day or week to collaborate.
 
 ## Theme: an effective team culture
+
+![twelve principles](../../assets/notion/twelve-principles/image-21.png)
 
 This theme emphasizes creating an effective team culture that is inclusive, supportive, and empowering. The team:
 
@@ -38,6 +44,8 @@ Examples:
 - Asking the team what kind of equipment they need to do their job, and then giving them those tools.
 
 ## Theme: regular reflection
+
+![twelve principles](../../assets/notion/twelve-principles/image-22.png)
 
 Example:
 

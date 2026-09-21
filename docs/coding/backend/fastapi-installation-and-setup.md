@@ -24,6 +24,9 @@ python -m venv venv
 
 ### Activate the virtual environment
 
+![fastapi installation and setup](../../assets/notion/fastapi-installation-and-setup/image-17.png)
+
+
 `<venv>` must be replaced by the path to the directory containing the virtual environment.
 
 ```powershell
@@ -33,6 +36,9 @@ venv\Scripts\Activate.ps1
 
 !!! tip
     Make sure you see `venv` in front of your shell prompt.
+
+    ![fastapi installation and setup](../../assets/notion/fastapi-installation-and-setup/image-18.png)
+
 
 ### Install FastAPI
 

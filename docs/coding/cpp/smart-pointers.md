@@ -168,6 +168,9 @@ int main() {
 
 A problem with `std::shared_ptr` arises when two or more objects point to each other using `shared_ptr`, creating a **cycle**. Even if no external pointer references the objects, each object's reference count never reaches zero because they keep each other alive.
 
+![smart pointers](../../assets/notion/smart-pointers/image-10.png)
+
+
 ```cpp
 #include <memory>
 
@@ -219,6 +222,9 @@ int main() {
         - a pointer to the managed object,
         - a **shared count**: the number of `shared_ptr` instances pointing to the manager object,
         - a **weak count**: the number of `weak_ptr` instances pointing to the manager object.
+
+![smart pointers](../../assets/notion/smart-pointers/image-11.png)
+
 
     **How it works**
 

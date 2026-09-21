@@ -41,6 +41,9 @@ int main()
 !!! tip
     The synchronization step is necessary. Had we neglected to `join()` the spawned threads to the main thread, the result would be undefined.
 
+    ![In this case the three threads (main, t1 and t2) will run independently and any of them can finish printing and generated random order of printing. But the main will wait for t1 and t2 to finish before ending itself as the t1 and t2 are joined to the main.](../../assets/notion/thread-class/image-15.png)
+
+
 The three threads (main, t1 and t2) run independently, and any of them can finish printing first, so the order of the output is random. But main waits for t1 and t2 to finish before ending itself, because t1 and t2 are joined to it.
 
 ## Related notes

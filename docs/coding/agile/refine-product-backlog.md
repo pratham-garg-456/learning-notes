@@ -6,9 +6,15 @@ title: How to Refine a Scrum Product Backlog
 
 Backlog refinement is the act of keeping the backlog described, estimated, and prioritized so that the Scrum team can operate effectively.
 
+![refine product backlog](../../assets/notion/refine-product-backlog/image-26.png)
+
+
 ## Estimate
 
 How much effort it will take to finish each item or user story.
+
+![refine product backlog](../../assets/notion/refine-product-backlog/image-27.png)
+
 
 Relative estimation methods:
 

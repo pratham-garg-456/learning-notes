@@ -8,6 +8,9 @@ RAM is **volatile**: it only holds data while it has power.
 
 To run a program, the computer makes a copy of it in RAM so the CPU can process it. Our hard drive or storage is slow, so we need somewhere faster, which is RAM.
 
+![ram](../../assets/notion/ram/image-1.png)
+
+
 ## Types of RAM
 
 ### DRAM
@@ -31,6 +34,9 @@ The problem is these buckets have tiny holes, so they slowly leak. In real terms
 ??? note "The dynamic in the name"
 
     This constant need to actively maintain the charge is exactly why it is called **Dynamic** RAM: the data isn't passively sitting there stable, it requires ongoing active effort to keep it intact. This contrasts with **SRAM** (Static RAM), used in CPU caches, which holds its charge without refreshing but is far more expensive and physically larger, which is why it is only used in small amounts close to the processor.
+
+    ![ram](../../assets/notion/ram/image-2.png)
+
 
 ## DIMM sticks
 

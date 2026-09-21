@@ -14,6 +14,15 @@ The team reflects on:
 
 ## Key measures
 
+![sprint retrospective](../../assets/notion/sprint-retrospective/f7470ed2-a2fb-4b63-b1f6-f7880d3fe786.png)
+
+![sprint retrospective](../../assets/notion/sprint-retrospective/image-28.png)
+
+![sprint retrospective](../../assets/notion/sprint-retrospective/image-29.png)
+
+![sprint retrospective](../../assets/notion/sprint-retrospective/image-30.png)
+
+
 The course shows key measures for the retrospective as diagrams.
 
 ## Practice Questions

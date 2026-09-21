@@ -12,6 +12,9 @@ A region contains at least one, but potentially multiple, datacenters that are n
 
 ### Availability zones
 
+![azure core architecture](../../assets/notion/azure-core-architecture/image-92.png)
+
+
 Availability zones are **physically separate datacenters** within an Azure region. Each availability zone is made up of one or more datacenters equipped with **independent power, cooling, and networking**. An availability zone is set up to be an isolation boundary: if one zone goes down, the other continues working. Availability zones are connected through high-speed, **private fiber-optic networks**.
 
 !!! tip
@@ -40,6 +43,9 @@ Physical and logical network-isolated instances of Azure. Sovereign regions are 
 ## Azure management infrastructure
 
 The management infrastructure includes Azure resources and resource groups, subscriptions, and accounts.
+
+![azure core architecture](../../assets/notion/azure-core-architecture/image-93.png)
+
 
 ### Management groups
 

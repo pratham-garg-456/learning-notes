@@ -4,13 +4,24 @@ title: Home Ribbon
 
 # Home Ribbon
 
+![home ribbon](../../assets/notion/home-ribbon/image-108.png)
+
+
 ## Copy formatting (Format Painter)
 
 Double-click the Format Painter, then apply the formatting to as many cells as you like. Press Escape when done.
 
+![home ribbon](../../assets/notion/home-ribbon/image-109.png)
+
+
 ## Wrap text
 
 Use Wrap Text when the text is too long and is hiding behind another column.
+
+![home ribbon](../../assets/notion/home-ribbon/image-110.png)
+
+![home ribbon](../../assets/notion/home-ribbon/image-111.png)
+
 
 ## Practice Questions
 

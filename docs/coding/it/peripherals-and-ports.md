@@ -12,6 +12,9 @@ Think of connectors like different plugs in your house (a wall outlet, a TV cabl
 
 ## USB connectors
 
+![peripherals and ports](../../assets/notion/peripherals-and-ports/image-5.png)
+
+
 USB (Universal Serial Bus) is called "universal" because it was designed to replace the many different connector types of the 1990s with one standard. It became the most common connector in the world. USB does two things at once:
 
 - transfers data between devices,
@@ -29,6 +32,9 @@ These are the rectangular USB ports on computers:
 
 ### Smaller modern USB connectors
 
+![peripherals and ports](../../assets/notion/peripherals-and-ports/image-6.png)
+
+
 - **Micro USB**: the small connector used on older Android phones, cameras, and portable devices before USB-C. It could only be inserted one way, so you'd often fumble plugging it in.
 - **USB-C**: the current modern standard. It is completely symmetrical, so you can plug it in either way up. It is also more capable:
     - transfers data at up to 20 Gbps
@@ -41,6 +47,9 @@ These are the rectangular USB ports on computers:
 ## Communication connectors
 
 These connect devices to networks and the internet rather than to peripherals.
+
+![peripherals and ports](../../assets/notion/peripherals-and-ports/image-7.png)
+
 
 ### POTS and RJ-11
 
@@ -78,10 +87,16 @@ This is why major internet providers use fiber for their backbone infrastructure
 
 Legacy means old technology that is no longer the current standard but still exists in older equipment.
 
+![peripherals and ports](../../assets/notion/peripherals-and-ports/image-8.png)
+
+
 - **DB9**: a D-shaped connector with 9 pins, used for older peripherals like keyboards, mice, and joysticks before USB. You might still meet it on old industrial equipment, legacy point-of-sale systems, older networking equipment, and some scientific instruments. IT professionals need to recognize these because businesses sometimes still run old equipment.
 - **Molex**: a large 4-pin power connector used inside computers to power internal components. Older HDDs, optical drives, and some fans used it. Modern drives mostly use SATA power connectors, but Molex still appears with some graphics card adapters and older components.
 
 ## Punch down blocks
+
+![peripherals and ports](../../assets/notion/peripherals-and-ports/image-9.png)
+
 
 A punch down block is specialized networking hardware used in professional settings such as offices, buildings, and data centers. It is a panel with rows of metal slots where you "punch down" bare copper wire using a special tool. The slot's metal teeth bite through the insulation and make a reliable electrical connection without stripping wires or using screws.
 

@@ -47,6 +47,15 @@ Think of `a` and `b` as containers. The value is what is stored in the container
 - `10` is assigned as the value of `a` (assignment).
 - `b` is created with `5` as its value (initialization).
 
+![variables and constants](../../assets/notion/variables-and-constants/image-12.png)
+
+
+![variables and constants](../../assets/notion/variables-and-constants/image-13.png)
+
+
+![variables and constants](../../assets/notion/variables-and-constants/image-14.png)
+
+
 See also [Primitive Data Types](primitive-data-types.md) and, for the JavaScript view, [Variables](../javascript/variables.md).
 
 ## Practice Questions

@@ -4,6 +4,9 @@ title: The 4 Core Values of the Agile Manifesto
 
 # The 4 Core Values of the Agile Manifesto
 
+![core values](../../assets/notion/core-values/image-23.png)
+
+
 ## 1. Individuals and interactions
 
 This value focuses on people communicating with each other, and values individual perspective and creativity.

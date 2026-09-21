@@ -73,6 +73,15 @@ Azure always keeps multiple copies of your data to protect it from failures or d
 - GRS/GZRS protect against big disasters.
 - RA-GRS/RA-GZRS let you read from the backup region at any time.
 
+![azure storage](../../assets/notion/azure-storage/image-88.png)
+
+![azure storage](../../assets/notion/azure-storage/image-89.png)
+
+![azure storage](../../assets/notion/azure-storage/image-90.png)
+
+![azure storage](../../assets/notion/azure-storage/image-91.png)
+
+
 !!! tip
     The interval between the most recent writes to the primary region and the last write to the secondary region is known as the recovery point objective (RPO). The RPO indicates the point in time to which data can be recovered. Azure Storage typically has an RPO of less than 15 minutes, although there is currently no SLA on how long it takes to replicate data to the secondary region.
 
