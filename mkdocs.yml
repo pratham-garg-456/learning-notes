@@ -72,6 +72,7 @@ nav:
           - coding/cpp/index.md
           - Basics: coding/cpp/basics.md
           - Primitive Data Types: coding/cpp/primitive-data-types.md
+          - Variables and Constants: coding/cpp/variables-and-constants.md
           - Pointers: coding/cpp/pointers.md
           - Smart Pointers: coding/cpp/smart-pointers.md
           - RAII: coding/cpp/raii.md
@@ -80,7 +81,13 @@ nav:
           - Thread Class: coding/cpp/thread-class.md
           - Future Library: coding/cpp/future-library.md
           - Thread Local Storage: coding/cpp/thread-local-storage.md
-      - JavaScript: coding/javascript.md
+      - JavaScript:
+          - coding/javascript/index.md
+          - History of Browsing: coding/javascript/history-of-the-browser.md
+          - Variables: coding/javascript/variables.md
+          - Data Types: coding/javascript/data-types.md
+          - Arrays: coding/javascript/arrays.md
+          - Sets: coding/javascript/sets.md
       - Web Development:
           - coding/web/index.md
           - React:

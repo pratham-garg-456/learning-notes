@@ -4,6 +4,16 @@ title: JavaScript
 
 # JavaScript
 
+## Topic notes
+
+- [History of Browsing](history-of-the-browser.md)
+- [Variables](variables.md)
+- [Data Types](data-types.md)
+- [Arrays](arrays.md)
+- [Sets](sets.md)
+
+## Study plan
+
 ## Where you are right now
 
 | # | Topic | Status |

@@ -10,6 +10,7 @@ Everything I learn about C++: syntax, memory, the standard library.
 
 - [Basics](basics.md): what a program is, bits and bytes, addresses, compilers, and a first C program.
 - [Primitive Data Types](primitive-data-types.md): integral and floating point types, signed vs unsigned, precision.
+- [Variables and Constants](variables-and-constants.md): declaration, assignment, and initialization.
 
 ## Intermediate
 
