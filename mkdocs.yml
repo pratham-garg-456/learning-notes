@@ -73,7 +73,11 @@ nav:
           - Basics: coding/cpp/basics.md
           - Primitive Data Types: coding/cpp/primitive-data-types.md
           - Variables and Constants: coding/cpp/variables-and-constants.md
+          - Control Structures: coding/cpp/control-structures.md
           - Pointers: coding/cpp/pointers.md
+          - Classes and Objects: coding/cpp/classes-and-objects.md
+          - Constructors and Destructors: coding/cpp/constructors-and-destructors.md
+          - Exceptions: coding/cpp/exceptions.md
           - Smart Pointers: coding/cpp/smart-pointers.md
           - RAII: coding/cpp/raii.md
           - Pre-processor Directives: coding/cpp/pre-processor-directives.md
@@ -81,6 +85,10 @@ nav:
           - Thread Class: coding/cpp/thread-class.md
           - Future Library: coding/cpp/future-library.md
           - Thread Local Storage: coding/cpp/thread-local-storage.md
+          - The string Library: coding/cpp/string-library.md
+          - iomanip: coding/cpp/iomanip.md
+          - Algorithms: coding/cpp/algorithms.md
+          - STL Good Practice: coding/cpp/stl-good-practice.md
       - JavaScript:
           - coding/javascript/index.md
           - History of Browsing: coding/javascript/history-of-the-browser.md
@@ -95,9 +103,12 @@ nav:
               - JSX: coding/web/react/jsx.md
               - Components: coding/web/react/components.md
               - Events: coding/web/react/events.md
+              - Props: coding/web/react/props.md
+              - Hooks: coding/web/react/hooks.md
           - Next.js: coding/web/nextjs.md
           - JSON: coding/web/json.md
           - API: coding/web/api.md
+          - NextAuth.js Client API: coding/web/nextauth-client-api.md
           - Design:
               - coding/web/design/index.md
               - Color Theory: coding/web/design/color-theory.md
@@ -109,8 +120,18 @@ nav:
           - FastAPI Installation and Setup: coding/backend/fastapi-installation-and-setup.md
           - FastAPI Routes: coding/backend/fastapi-routes.md
           - HTTPS Redirect Middleware: coding/backend/https-redirect-middleware.md
+          - Session Middleware: coding/backend/session-middleware.md
+          - GZip Middleware: coding/backend/gzip-middleware.md
+          - Advanced Route Validation: coding/backend/fastapi-advanced-route-validation.md
+          - Advanced Body Validation: coding/backend/fastapi-advanced-body-validation.md
+          - The yield Keyword: coding/backend/yield-keyword.md
           - Beanie: coding/backend/beanie.md
           - Supabase: coding/backend/supabase.md
+      - Python:
+          - coding/python/index.md
+          - Dictionary: coding/python/dictionary.md
+      - Docker: coding/docker.md
+      - Flutter: coding/flutter.md
       - IT Fundamentals:
           - coding/it/index.md
           - Computer Architecture Overview: coding/it/computer-architecture-overview.md
@@ -133,6 +154,11 @@ nav:
           - The 12 Principles: coding/agile/twelve-principles.md
           - Other Agile Methodologies: coding/agile/other-agile-methodologies.md
           - Intro to Scrum: coding/agile/intro-to-scrum.md
+          - The Five Scrum Events: coding/agile/five-scrum-events-and-timebox.md
+          - Sprint Planning: coding/agile/sprint-planning.md
+          - Product Backlog: coding/agile/product-backlog.md
+          - User Stories: coding/agile/user-stories.md
+          - Scrum Roles: coding/agile/scrum-roles.md
           - The 3 Pillars of Scrum: coding/agile/three-pillars-of-scrum.md
           - The 5 Values of Scrum: coding/agile/five-values-of-scrum.md
           - Daily Scrum and Sprint Review: coding/agile/daily-scrum-and-sprint-review.md
@@ -152,6 +178,7 @@ nav:
       - AI:
           - coding/ai/index.md
           - Generative AI: coding/ai/generative-ai.md
+          - How AI Uses Machine Learning: coding/ai/how-ai-uses-machine-learning.md
           - AI Models and Training: coding/ai/ai-models-and-training.md
           - AI Development Techniques: coding/ai/ai-development-techniques.md
           - Generative AI Tools: coding/ai/generative-ai-tools.md
@@ -165,6 +192,15 @@ nav:
           - coding/microsoft-365/index.md
           - Home Ribbon: coding/microsoft-365/home-ribbon.md
           - Functions and Formulas: coding/microsoft-365/functions-and-formulas.md
+          - Text Functions: coding/microsoft-365/text-functions.md
+          - Lookup Function: coding/microsoft-365/lookup-function.md
+          - Relative, Absolute, and Mixed References: coding/microsoft-365/relative-absolute-and-mixed-references.md
+          - Flash Fill: coding/microsoft-365/flash-fill.md
+          - Auto Fit Column: coding/microsoft-365/auto-fit-column.md
+          - Conditional Formatting: coding/microsoft-365/conditional-formatting.md
+          - Custom Sort: coding/microsoft-365/custom-sort.md
+          - Find and Select: coding/microsoft-365/find-and-select.md
+          - Freeze and Split: coding/microsoft-365/freeze-and-split.md
       - System Design:
           - system-design/index.md
           - Getting Started:

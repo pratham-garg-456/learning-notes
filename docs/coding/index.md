@@ -13,6 +13,9 @@ Notes on writing software: the languages and tools I use, core computer science 
 - **[JavaScript](javascript/index.md)**: history, variables, data types, arrays, sets, plus a study plan on scope, closures, async, `this`, and TypeScript basics.
 - **[Web Development](web/index.md)**: React, JSX, Next.js, JSON, APIs, and design (color, typography, UI, UX).
 - **[Backend](backend/index.md)**: FastAPI, Beanie, and Supabase.
+- **[Python](python/index.md)**: dictionaries.
+- **[Docker](docker.md)**: containers, images, and Dockerfile optimization.
+- **[Flutter](flutter.md)**: widgets, layouts, Firebase setup, and custom fonts.
 - **[IT Fundamentals](it/index.md)**: hardware, BIOS, storage, file systems, and character encoding.
 - **[Agile and Scrum](agile/index.md)**: values, principles, Scrum events, and backlog refinement.
 - **[Cloud (Azure)](cloud/index.md)**: cloud concepts, Azure architecture, compute, storage, identity, and cost.

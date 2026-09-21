@@ -76,6 +76,8 @@ Go to the VS Code settings, search for `emmet include lang`, and add a mapping s
 - [JSX](jsx.md)
 - [Components](components.md)
 - [Events](events.md)
+- [Props](props.md)
+- [Hooks](hooks.md)
 
 ## Practice Questions
 

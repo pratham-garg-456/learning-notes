@@ -7,6 +7,7 @@ title: AI
 ## Topics
 
 - [Generative AI](generative-ai.md)
+- [How AI Uses Machine Learning](how-ai-uses-machine-learning.md)
 - [AI Models and the Training Process](ai-models-and-training.md)
 - [AI Development Techniques](ai-development-techniques.md): rule-based and machine learning.
 - [Generative AI Tools for Workplace Tasks](generative-ai-tools.md)

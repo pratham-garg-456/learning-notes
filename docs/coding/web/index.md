@@ -26,6 +26,7 @@ For each part of your application, you will need to decide whether to build a so
 - [Next.js](nextjs.md): the React framework, server-side vs client-side rendering.
 - [JSON](json.md): serialization.
 - [API](api.md): REST and API authentication.
+- [NextAuth.js Client API](nextauth-client-api.md): sessions and `useSession()`.
 - [Design](design/index.md): color theory, typography, user interface design, and user experience design.
 
 See also [Backend](../backend/index.md).

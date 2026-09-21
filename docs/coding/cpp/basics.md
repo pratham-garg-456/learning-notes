@@ -27,6 +27,8 @@ The instructions and data we give the computer are stored in RAM as binary: 0s a
 
 Each bit position has a value, and the byte's value is the sum of the positions that are on:
 
+![Bits and bytes](../../assets/notion/basics/bit-and-byte-table.avif)
+
 | Bit pattern (2⁷ … 2⁰) | How it adds up | Decimal |
 | --- | --- | --- |
 | `0 0 0 0 0 0 0 0` | | 0 |
