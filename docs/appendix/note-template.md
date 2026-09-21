@@ -34,7 +34,7 @@ The actual content. Use a Mermaid diagram or table when it beats a paragraph.
 
 | If it is about... | Put it in |
 | --- | --- |
-| Networks, databases, distributed systems | `docs/system-design/` index links to the existing `chapter-N/` pages |
+| Networks, databases, distributed systems | System Design, a topic under Coding (`docs/system-design/` index links to the existing `chapter-N/` pages) |
 | Programming languages, algorithms, tools, engineering habits | `docs/coding/` |
 | Learning a spoken or written language | `docs/languages/` |
 | Earning, saving, investing, taxes | `docs/money/` |

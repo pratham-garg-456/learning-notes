@@ -8,7 +8,9 @@ Notes on writing software: the languages and tools I use, core computer science 
 
 ## Topics
 
-_No notes yet. Ideas to start with: Big-O notation, arrays vs linked lists, hash maps, git workflows, testing, code review._
+- **[System Design](../system-design/index.md)**: networking, databases, architecture, and case studies. The most developed topic so far.
+
+_More to add. Ideas to start with: Big-O notation, arrays vs linked lists, hash maps, git workflows, testing, code review._
 
 ## Adding a note
 

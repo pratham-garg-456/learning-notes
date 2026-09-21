@@ -8,8 +8,7 @@ Everything I learn, written down so I can find it again. Each note explains a co
 
 ## Areas
 
-- **[System Design](system-design/index.md)**: networking, databases, architecture, and case studies. The most developed area so far.
-- **[Coding](coding/index.md)**: languages, data structures, algorithms, tooling, and habits of good engineers.
+- **[Coding](coding/index.md)**: system design, languages, data structures, algorithms, tooling, and habits of good engineers. System design is the most developed topic so far.
 - **[Languages](languages/index.md)**: human languages I am learning, with vocabulary, grammar, and phrases.
 - **[Money](money/index.md)**: earning, saving, investing, taxes, and how to think about risk.
 - **[People Skills](people-skills/index.md)**: communication, listening, feedback, conflict, and working with others.
