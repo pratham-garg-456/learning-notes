@@ -68,6 +68,42 @@ nav:
   - Home: index.md
   - Coding:
       - coding/index.md
+      - C++:
+          - coding/cpp/index.md
+          - Basics: coding/cpp/basics.md
+          - Primitive Data Types: coding/cpp/primitive-data-types.md
+          - Pointers: coding/cpp/pointers.md
+          - Smart Pointers: coding/cpp/smart-pointers.md
+          - RAII: coding/cpp/raii.md
+          - Pre-processor Directives: coding/cpp/pre-processor-directives.md
+          - Multithreading: coding/cpp/multithreading.md
+          - Thread Class: coding/cpp/thread-class.md
+          - Future Library: coding/cpp/future-library.md
+          - Thread Local Storage: coding/cpp/thread-local-storage.md
+      - JavaScript: coding/javascript.md
+      - Web Development:
+          - coding/web/index.md
+          - React:
+              - coding/web/react/index.md
+              - JSX: coding/web/react/jsx.md
+              - Components: coding/web/react/components.md
+              - Events: coding/web/react/events.md
+          - Next.js: coding/web/nextjs.md
+          - JSON: coding/web/json.md
+          - API: coding/web/api.md
+          - Design:
+              - coding/web/design/index.md
+              - Color Theory: coding/web/design/color-theory.md
+              - Typography: coding/web/design/typography.md
+              - User Interface Design: coding/web/design/user-interface-design.md
+              - User Experience (UX) Design: coding/web/design/user-experience-design.md
+      - Backend:
+          - coding/backend/index.md
+          - FastAPI Installation and Setup: coding/backend/fastapi-installation-and-setup.md
+          - FastAPI Routes: coding/backend/fastapi-routes.md
+          - HTTPS Redirect Middleware: coding/backend/https-redirect-middleware.md
+          - Beanie: coding/backend/beanie.md
+          - Supabase: coding/backend/supabase.md
       - System Design:
           - system-design/index.md
           - Getting Started:

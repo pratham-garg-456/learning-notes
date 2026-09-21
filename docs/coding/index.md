@@ -9,6 +9,10 @@ Notes on writing software: the languages and tools I use, core computer science 
 ## Topics
 
 - **[System Design](../system-design/index.md)**: networking, databases, architecture, and case studies. The most developed topic so far.
+- **[C++](cpp/index.md)**: fundamentals, pointers, smart pointers, RAII, and multithreading.
+- **[JavaScript](javascript.md)**: scope, closures, async, `this`, array methods, and TypeScript basics.
+- **[Web Development](web/index.md)**: React, JSX, Next.js, JSON, APIs, and design (color, typography, UI, UX).
+- **[Backend](backend/index.md)**: FastAPI, Beanie, and Supabase.
 
 _More to add. Ideas to start with: Big-O notation, arrays vs linked lists, hash maps, git workflows, testing, code review._
 
