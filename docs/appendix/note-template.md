@@ -34,10 +34,13 @@ The actual content. Use a Mermaid diagram or table when it beats a paragraph.
 
 | If it is about... | Put it in |
 | --- | --- |
-| Networks, databases, distributed systems | System Design, a topic under Coding (`docs/system-design/` index links to the existing `chapter-N/` pages) |
-| Programming languages, algorithms, tools, engineering habits | `docs/coding/` |
+| Networks, databases, distributed systems | System Design (`docs/system-design/` links to the existing `chapter-N/` pages) |
+| A programming language (C++, JavaScript, Python, Flutter) | `docs/coding/<language>/` |
+| Web, backend, security, cloud, Docker | `docs/coding/web/`, `backend/`, `security/`, `cloud/`, or `docker.md` |
+| AI and machine learning | `docs/coding/ai/` |
+| IT hardware, Microsoft 365, Agile and Scrum | `docs/coding/it/`, `microsoft-365/`, `agile/` |
 | Learning a spoken or written language | `docs/languages/` |
 | Earning, saving, investing, taxes | `docs/money/` |
 | Communication, relationships, teamwork | `docs/people-skills/` |
 
-Then add the page to the `nav:` section of `mkdocs.yml` so it shows in the sidebar.
+Then add the page to the `nav:` section of `mkdocs.yml` under the matching tab so it shows in the sidebar.
